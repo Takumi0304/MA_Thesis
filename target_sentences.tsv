@@ -1,0 +1,192 @@
+1	A	I know that the banker that irritated the lawyer played tennis every Saturday.	Was playing tennis a weekly routine for banker?
+1	B	I know that the banker that irritated the lawyers played tennis every Saturday.	Did the banker play tennis on Sundays? 
+1	C	I know that the banker that the lawyer irritated played tennis every Saturday.	Did the banker irritate the lawyer?
+1	D	I know that the banker that the lawyers irritated played tennis every Saturday.	Did the lawyers irritate the banker?
+2	A	I know that the babysitter that chased the child tripped over the toy dump truck.	Did the babysitter avoid tripping over the toy dump truck?
+2	B	I know that the babysitter that chased the children tripped over the toy dump truck.	Were the children being chased by the babysitter?
+2	C	I know that the babysitter that the child chased tripped over the toy dump truck.	Was the child chasing the babysitter? 
+2	D	I know that the babysitter that the children chased tripped over the toy dump truck.	Did the babysitter trip over the toy robot? 
+3	A	I know that the pilot that complimented the flight attendant asked for a date.	Was the flight attendant complimented by the pilot?
+3	B	I know that the pilot that complimented the flight attendants asked for a date.	Did the pilot compliment the flight attendants?
+3	C	I know that the pilot that the flight attendant complimented asked for a date.	Did the pilot complain to the flight attendants?
+3	D	I know that the pilot that the flight attendants complimented asked for a date.	Were flight attendants asked out on dates by passengers?
+4	A	I know that the photographer that complimented the writer snapped award-winning photos.	Were the photographer's photos not award-winning?
+4	B	I know that the photographer that complimented the writers snapped award-winning photos.	Did the writers take award-winning photos?
+4	C	I know that the photographer that the writer complimented snapped award-winning photos.	Did the writer compliment the photographer? 
+4	D	I know that the photographer that the writers complimented snapped award-winning photos.	Were the photographer's photos award-winning?
+5	A	I know that the dancer that admired the director worked at a shop in the city.	Was a shop in the city workplace for the dancer?
+5	B	I know that the dancer that admired the directors worked at a shopl in the city.	Was the shop where the dancer worked in the countryside? 
+5	C	I know that the dancer that the director admired worked at a shop in the city.	Did the director admire the dancer?
+5	D	I know that the dancer that the directors admired worked at a shop in the city.	Did the dancer's job take place in a rural area?
+6	A	I know that the fisherman that passed the hiker carried lots of heavy fishing gear.	Did the hiker carry the heavy fishing gear?
+6	B	I know that the fisherman that passed the hikers carried lots of heavy fishing gear.	Was the fishing gear really heavy? 
+6	C	I know that the fisherman that the hiker passed carried lots of heavy fishing gear.	Was the fisherman's gear light rather than heavy?
+6	D	I know that the fisherman that the hikers passed carried lots of heavy fishing gear.	Did the hikers pass by the fisherman?
+7	A	I know that the soldier that assisted the civilian received a medal from the army.	Was the civilian helped by the soldier?
+7	B	I know that the soldier that assisted the civilians received a medal from the army.	Was the soldier awarded by the townhall?
+7	C	I know that the soldier that the civilian assisted received a medal from the army.	Will the medal be given to the soldier soon? 
+7	D	I know that the soldier that the civilians assisted received a medal from the army.	Did the civilians help the soldier? 
+8	A	I know that the professor that criticized the student blushed and turned away.	Did the professor feel so good and look confident?
+8	B	I know that the professor that criticized the students blushed and turned away.	Were the students criticized by the professor?
+8	C	I know that the professor that the student criticized blushed and turned away.	Was the professor criticized by the student? 
+8	D	I know that the professor that the students criticized blushed and turned away.	Did the professor turn toward the students after blushing?
+9	A	I know that the plumber that helped the electrician retired after twenty years on the job.	Did the plumber assist the electrician?
+9	B	I know that the plumber that helped the electricians retired after twenty years on the job.	Were the electricians helped by the plumber?
+9	C	I know that the plumber that the electrician helped retired after twenty years on the job.	Did the plumber continue working after twenty years?
+9	D	I know that the plumber that the electricians helped retired after twenty years on the job.	Did the plumber stay on the job after twenty years? 
+10	A	I know that the golfer that liked the caddie played on the professional tour.	Did the caddie like the golfer?
+10	B	I know that the golfer that liked the caddies played on the professional tour.	Did the golfer avoid playing on the professional tour?
+10	C	I know that the golfer that the caddie liked played on the professional tour.	Was the golfer liked by the caddie?
+10	D	I know that the golfer that the caddies liked played on the professional tour.	Did the golfer play on the professional tour? 
+11	A	I know that the actor that visited the director demanded the starring role in the movie.	Did the actor visit the director? 
+11	B	I know that the actor that visited the directors demanded the starring role in the movie.	Did the actor have no opinions towardderectors' idea?
+11	C	I know that the actor that the director visited demanded the starring role in the movie.	Were the directors visited by the actor?
+11	D	I know that the actor that the directors visited demanded the starring role in the movie.	Did the actor request a minor role instead of the starring role?
+12	A	I know that the boy that saw the girl walked through the park yesterday afternoon.	Did the boy walk through the park at midnight yesterday?
+12	B	I know that the boy that saw the girls walked through the park yesterday afternoon.	Did the boy saw the girls?
+12	C	I know that the boy that the girl saw walked through the park yesterday afternoon.	Was the boy walking down the street yesterday afternoon?
+12	D	I know that the boy that the girls saw walked through the park yesterday afternoon.	Were the girls the ones who saw the boy?
+13	A	I know that the man that called the lady looked very busy after lunch .	Did the man call the lady?
+13	B	I know that the man that called the ladies looked very busy after lunch .	Was the man not busy after lunch?
+13	C	I know that the man that the lady called looked very busy after lunch .	Did the man look relaxed after lunch?
+13	D	I know that the man that the ladies called looked very busy after lunch .	Was the man called by the ladies?
+14	A	I know that the doctor that visited the nurse worked very hard yesterday morning.	Did the doctor take a break yesterday morning?
+14	B	I know that the doctor that visited the nurses worked very hard yesterday morning.	Were the nurses visited by the doctor? 
+14	C	I know that the doctor that the nurse visited worked very hard yesterday morning.	Did the nurse visit the doctor?
+14	D	I know that the doctor that the nurses visited worked very hard yesterday morning.	Did the nurses work very hard yesterday morning?
+15	A	I know that the customer that noticed the chef enjoyed dinner with friends.	Did the customer notice the chef?
+15	B	I know that the customer that noticed the chefs enjoyed dinner with friends.	Were the chefs noticed by the customer?
+15	C	I know that the customer that the chef noticed enjoyed dinner with friends.	Did the customer dine alone?
+15	D	I know that the customer that the chefs noticed enjoyed dinner with friends.	Did the customer look tired of the dinner with chefs?
+16	A	I know that the pianist that liked the singer visited the concert hall.	Did the pianist avoid visiting the concert hall?
+16	B	I know that the pianist that liked the singers visited the concert hall.	Was the concert hall closed?
+16	C	I know that the pianist that the singer liked visited the concert hall.	Was the pianist liked by the singer? 
+16	D	I know that the pianist that the singers liked visited the concert hall.	Did the singers like the pianist?
+17	A	I know that the hikers that fled the avalanche appeared on the six o’clock news.	Did the hiker flee the avalanche? 
+17	B	I know that the hikers that fled the avalanches appeared on the six o’clock news.	Did the hiker stay away from the news?
+17	C	I know that the hikers that the avalanche affected appeared on the six o’clock news.	Was the avalanche affecting the hiker? 
+17	D	I know that the hikers that the avalanches affected appeared on the six o’clock news.	Did the hiker avoid being on the news?
+18	A	I know that the farmer that washed the tractor was standing next to the barn.	Was the farmer standing next to the bus stop?
+18	B	I know that the farmer that washed the tractors was standing next to the barn.	Were the tractors washed by the farmer?
+18	C	I know that the farmer that the tractor passed by was standing next to the barn.	Was the farmer far from the barn?
+18	D	I know that the farmer that the tractors passed by was standing next to the barn.	Were the tractors passing by the farmer? 
+19	A	I know that the boy that vandalized the church looked very shabby.	Did the boy damage the church?
+19	B	I know that the boy that vandalized the churches looked very shabby.	Did the boy look neat and tidy?
+19	C	I know that the boy that the church sheltered looked very shabby.	Did the boy look neat and tidy?
+19	D	I know that the boy that the churches sheltered looked very shabby.	Was the boy sheltered by the churches? 
+20	A	I know that the girl that climbed the tree were in the back yard.	Is the girls still on the tree?
+20	B	I know that the girl that climbed the trees were in the back yard.	Was the girl in the back yard?
+20	C	I know that the girl that the tree shaded were in the back yard.	Was the tree shading the girl?
+20	D	I know that the girl that the trees shaded were in the back yard.	Was the girl not in the back yard?
+21	A	The tourist that checked the map was from South Africa.	Did the tourist read the map?
+21	B	The tourist that checked the maps was from South Africa.	Was the tourist from South Africa?
+21	C	The tourist that the map guided were was South Africa.	Did the tourist have no maps?
+21	D	The tourist that the maps guided was from South Africa.	Was the tourist from South America?
+22	A	I know that the fish that attacked the lure impressed the fisherman quite a lot.	Was the fisherman unimpressed by the fish?
+22	B	I know that the fish that attacked the lures impressed the fisherman quite a lot.	Did the fisherman feel bored?
+22	C	I know that the fish that the lure attracted impressed the fisherman quite a lot.	Was the fish attracted by the lure?
+22	D	I know that the fish that the lures attracted impressed the fisherman quite a lot.	Were the fish attracted by the lures?
+23	A	I know that the elephant that ate the apple lived in a cage at the zoo.	Did the elephant eat the apple?
+23	B	I know that the elephant that ate the apples lived in a cage at the zoo.	Did the elephant live not in the zoo.?
+23	C	I know that the elephant that the zoo keeper fed lived in a cage at the zoo.	Was the elephant fed by the zoo keeper?
+23	D	I know that the elephant that the zoo keepers fed lived in a cage at the zoo.	Did the elephant live outside the cage?
+24	A	I know that the senator that mentioned the article was forgotten after the election.	Was the senator remembered after the election? 
+24	B	I know that the senator that mentioned the articles was forgotten after the election.	Were the articles mentioned by the senator?
+24	C	I know that the senator that the article mentioned was forgotten after the election.	Was the senator remembered after the election? 
+24	D	I know that the senator that the article mentioned was forgotten after the election.	Were the articles mentioning the senator? 
+25	A	I know that the cowboy that concealed the pistol was known to be unreliable.	Did the cowboy hide the pistol?
+25	B	I know that the cowboy that concealed the pistols was known to be unreliable.	Was the cowboy known for being trustworthy? 
+25	C	I know that the cowboy that the pistol injured was known to be unreliable.	Was the cowboy considered reliable?
+25	D	I know that the cowboy that the pistols injured was known to be unreliable.	Did the pistols injure the cowboy?
+26	A	I know that the athlete that supported the fan gave an inspiring speech.	Did the athlete give a boring speech? 
+26	B	I know that the athlete that supported the fans gave an inspiring speech.	Were the fans supported by the athlete?
+26	C	I know that the athlete that the fan supported gave an inspiring speech.	Was the athlete supported by the fan?
+26	D	I know that the athlete that the fans supported gave an inspiring speech.	Did the athlete give a disappointing speech?
+27	A	I know that the artist that promoted the gallery gained international fame.	Did the artist promote the gallery?
+27	B	I know that the artist that promoted the galleries gained international fame.	Were the galleries promoted by the artist?
+27	C	I know that the artist that the gallery promoted gained international fame.	Did the artist fail to achieve international fame?
+27	D	I know that the artist that the galleries promoted gained international fame.	Did the artist stay unknown internationally?
+28	A	I know that the reader that enjoyed the novel went to bed late at night.	Did the reader go to bed early? 
+28	B	I know that the reader that enjoyed the novels went to bed late at night.	Did the reader go to bed early?
+28	C	I know that the reader that the novel entertained  went to bed late at night.	Was the reader entertained by the novel?
+28	D	I know that the reader that the novels entertained went to bed late at night.	Were the novels entertaining the reader? 
+29	A	I know that the scientist that discovered the formula developed a new research method.	Did the scientist discover the formula?
+29	B	I know that the scientist that discovered the formulas developed a new research method.	Did the scientist fail to create a new research method?
+29	C	I know that the scientist that the formula inspired developed a new research method.	Was the formula inspring for the scientist?
+29	D	I know that the scientist that the formulas inspired developed a new research method.	Did the scientist fail to create a new research method?
+30	A	I know that the teacher that held the lecture looked quite happy in the afternoon.	Did the teacher look unhappy in the afternoon?
+30	B	I know that the teacher that held the lectures looked quite happy in the afternoon.	Were the lectures held by the teacher? 
+30	C	I know that the teacher that the evaluation praised looked quite happy in the afternoon.	Did the teacher look sad in the afternoon? 
+30	D	I know that the teacher that the evaluations praised looked quite happy in the afternoon.	Were the evaluations praising the teacher? 
+31	A	I know that the singer that canceled the concert disappointed the audience.	Did the singer cancel the concert?
+31	B	I know that the singer that canceled the concerts disappointed the audience.	Were the concerts hold by the singer?
+31	C	I know that the singer that the tabloid ridiculed canceled the concert.	Did the singer avoid canceling the concert?
+31	D	I know that the singer that the tabloids ridiculed canceled the concert.	Were the tabloids ridiculing the singer?
+32	A	I know that the detective that reviewed the report drank a cup of coffee.	Was the detective drinking tee?
+32	B	I know that the detective that reviewed the reports drank a cup of coffee.	Were the reports reviewed by the detective?
+32	C	I know that the detective that the report mentioned drank a cup of coffee.	Was the detective mentioned in the report? 
+32	D	I know that the detective that the reports mentioned drank a cup of coffee.	Did the detective avoid coffee?
+33	A	I know that the game that excited the kid became a hit at the party.	Did the game excite the kid?
+33	B	I know that the game that excited the kids became a hit at the party.	Did the game excite the kids?
+33	C	I know that the game that the kid played became a hit at the party.	Was the game a failure at the party?
+33	D	I know that the game that the kids played became a hit at the party.	Did the game fail to be a hit at the party?
+34	A	I know that the pen that belonged to the boy was left at school yesterday.	Was the pen taken home by the boy? 
+34	B	I know that the pen that belonged to the boys was left at school yesterday.	Did the boys take the pen home?
+34	C	I know that the pen that the boy used was left at school yesterday.	Did the boy use the pen?
+34	D	I know that the pen that the boys used was left at school yesterday.	Did the boys use the pen?
+35	A	I know that the toy that surprised the parent became the child's favorite.	Did the toy surprise the parent?
+35	B	I know that the toy that surprised the parents became the child's favorite.	Did the child dislike the toy?
+35	C	I know that the toy that the parent bought became the child's favorite.	Was the toy bought by the parent? 
+35	D	I know that the toy that the parents bought became the child's favorite.	Did the child lose interest in the toy? 
+36	A	I know that the glass that fell off the table shattered into pieces.	Did the glass remain unbroken after falling?
+36	B	I know that the glass that fell off the tables shattered into pieces.	Did the glass fall off the tables?
+36	C	I know that the glass that the guest dropped shattered into pieces.	Did the glass stay unbroken?
+36	D	I know that the glass that the guests dropped shattered into pieces.	Did the guests drop the glass?
+37	A	I know that the book that won the award became a bestseller.	Did the book win an award?
+37	B	I know that the book that won the awards became a bestseller.	Was the book not a bestseller?
+37	C	I know that the book that the professor wrote became a bestseller.	Did the book fail to become a bestseller?
+37	D	I know that the book that the professors wrote became a bestseller.	Was the book written by the professors? 
+38	A	I know that the shop that sold the vintage t-shirt closed down.	Did the shop remain open?
+38	B	I know that the shop that sold the vintage t-shirts closed down.	Were vintage t-shirts sold by the shop?
+38	C	I know that the shop that the girl discovered closed down.	Did the girl discover the shop? 
+38	D	I know that the shop that the girls discovered closed down.	Did the shop stay open after discovery?
+39	A	I know that the crop that concerned the farmer was eaten by animals.	Did the crop concern the farmer?
+39	B	I know that the crop that concerned the farmers was eaten by animals.	Were the farmers concerned about the crop?
+39	C	I know that the crop that the farmer expected was eaten by animals.	Was the crop eaten by the farmer?
+39	D	I know that the crop that the farmers expected was eaten by animals.	Was the crop left untouched by animals? 
+40	A	I know that the pizza that fed the kid stayed in the kitchen all night.	Was the pizza completely eaten by the kid?
+40	B	I know that the pizza that fed the kids stayed in the kitchen all night.	Did the kids eat the pizza at the restaurant?
+40	C	I know that the pizza that the kid ate stayed in the kitchen all night.	Did the kid eat the pizza? 
+40	D	I know that the pizza that the kids ate stayed in the kitchen all night.	Did the kids eat the pizza? 
+41	A	I know that the window that faced the garden tree let in plenty of sunlight.	Did the window face the garden tree?
+41	B	I know that the window that faced the garden trees  let in plenty of sunlight.	Did the window block sunlight?
+41	C	I know that the window that the builder installed let in plenty of sunlight.	Was the window installed by the builder?
+41	D	I know that the window that the builders installed let in plenty of sunlight.	Did the windows block the sunlight?
+42	A	I know that the sculpture that captivated the visitor stood in the plaza.	Did the sculpture stand in the middle of the street?
+42	B	I know that the sculpture that captivated the visitors stood in the plaza.	Did the visitors see the sculpture?
+42	C	I know that the sculpture that the visitor pointed at stood in the plaza.	Did the sculpture stand in the middle of the street?
+42	D	I know that the sculpture that the visitors pointed at stood in the plaza.	Did the visitors point at the sculpture?
+43	A	I know that the pill that healed the patient was mentioned in the medical journal.	Did a pill heal the patient and get mentioned in the medical journal?
+43	B	I know that the pill that healed the patients was mentioned in the medical journal.	Was the risk of the pill mentioned in the medical journal?
+43	C	I know that the pill that the patient chewed was mentioned in the medical journal.	Did the newspaper talk about the pill?
+43	D	I know that the pill that the patients chewed was mentioned in the medical journal.	Were the pills chewed by patients mentioned in the medical journal?
+44	A	I know that the recipe that inspired the young chef became a favorite among the guests.	Did the recipe inspire also the experienced chef?
+44	B	I know that the recipe that inspired the young chefs became a favorite among the guests.	Did a recipe inspire young chefs and become popular with the guests?
+44	C	I know that the recipe that the chef created became a favorite among the guests.	Did the chef's recipe become a favorite for the guests?
+44	D	I know that the recipe that the chefs created became a favorite among the guests.	Did a guest propose the recipe?
+45	A	I know that the hotel that had the famous menu was fully booked for the summer.	Was the hotel with a famous menu fully booked for the summer?
+45	B	I know that the hotel that had the famous menus was fully booked for the summer.	Was the hotel with a famous menus fully booked for the winter?
+45	C	I know that the hotel that the traveler chose was fully booked for the summer.	Did the hotel have some rooms for the traveler?
+45	D	I know that the hotel that the travelers chose was fully booked for the summer.	Did the hotel have some rooms for the travelers?
+46	A	I know that the bus that carried the man arrived at the station.	Was the bus carrying the men canceled?
+46	B	I know that the bus that carried the men arrived at the station.	Did the men’s bus get to the ariport?
+46	C	I know that the bus that the man drove arrived at the station.	Did the bus arrive at the station?
+46	D	I know that the bus that the men drove arrived at the station.	Did the bus driven by the men arrive at the station?
+47	A	I know that the company that hired the new manager saw a significant increase in sales.	Did the company that hired a new manager?
+47	B	I know that the company that hired the new managers saw a significant increase in sales.	Was there an increase in sales before new managers were hired?
+47	C	I know that the company that the new manager joined saw a significant increase in sales.	Did the company experience higher sales?
+47	D	I know that the company that the new managers joined saw a significant increase in sales.	Did the new manager already leave the company?
+48	A	I know that the wrench that scratched the plumber was found near the back door.	Was the wrench not found?
+48	B	I know that the wrench that scratched the plumbers was found near the back door.	Were the plumbers scratched by a wrench?
+48	C	I know that the wrench that the plumber scratched was found near the back door.	Was the wrench found near the car?
+48	D	I know that the wrench that the plumbers scratched was found near the back door.	Was the scratched wrench left near the back door?
